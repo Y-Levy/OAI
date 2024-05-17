@@ -1,1 +1,2 @@
-
+In this notebook we present the implementation of an acoustic-keylogger by SPRITZ Research Group called Skype-Type (https://github.com/SPRITZ-Research-Group/Skype-Type).
+We tested the implementation over 4 different kinds of models with 4 tests for each (for a total of 16 tests). At the end, we built upon the implementation and added a spell checker module called SymSpellPy by mammothb (https://github.com/mammothb/symspellpy) which is a python implementation of a fast spell checker called SymSpell (https://github.com/wolfgarbe/SymSpell) to better enhance the attack.
